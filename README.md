@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TahmidChow06
 - 👀 I’m interested in Web Dev, Linux.
-- 🌱 I’m currently Web Development.
+- 🌱 I’m currently learning Web Development and python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
